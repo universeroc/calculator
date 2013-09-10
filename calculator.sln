@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calculator", "calculator\calculator.vcxproj", "{7D645C14-7CCB-4512-9F04-BDD3BF72E73A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lexical", "lexical\lexical.vcxproj", "{D6B6F671-7149-43DA-9865-CF0433B3B2D6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grammar", "grammar\grammar.vcxproj", "{4FD6A82E-A21E-486B-BE5A-A2A1F991C78D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D645C14-7CCB-4512-9F04-BDD3BF72E73A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7D645C14-7CCB-4512-9F04-BDD3BF72E73A}.Debug|Win32.Build.0 = Debug|Win32
+		{7D645C14-7CCB-4512-9F04-BDD3BF72E73A}.Release|Win32.ActiveCfg = Release|Win32
+		{7D645C14-7CCB-4512-9F04-BDD3BF72E73A}.Release|Win32.Build.0 = Release|Win32
+		{D6B6F671-7149-43DA-9865-CF0433B3B2D6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D6B6F671-7149-43DA-9865-CF0433B3B2D6}.Debug|Win32.Build.0 = Debug|Win32
+		{D6B6F671-7149-43DA-9865-CF0433B3B2D6}.Release|Win32.ActiveCfg = Release|Win32
+		{D6B6F671-7149-43DA-9865-CF0433B3B2D6}.Release|Win32.Build.0 = Release|Win32
+		{4FD6A82E-A21E-486B-BE5A-A2A1F991C78D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FD6A82E-A21E-486B-BE5A-A2A1F991C78D}.Debug|Win32.Build.0 = Debug|Win32
+		{4FD6A82E-A21E-486B-BE5A-A2A1F991C78D}.Release|Win32.ActiveCfg = Release|Win32
+		{4FD6A82E-A21E-486B-BE5A-A2A1F991C78D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
